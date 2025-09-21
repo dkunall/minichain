@@ -14,7 +14,7 @@ It demonstrates the **core principles of blockchain technology**—including blo
 
 
 ## Project Structure
-MiniChain/
+MiniChain/ <br>
 │── main.cpp             # Driver code<br>
 │── utils.h / utils.cpp  # SHA-256 helper functions<br>
 │── Transaction.h/.cpp   # Transaction class<br>
